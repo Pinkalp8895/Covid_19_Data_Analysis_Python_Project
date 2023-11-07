@@ -1,4 +1,4 @@
-# Covid_19_data_analysis_python_project
+# Covid_19_Data_Analysis_Python_Project
 
 Description: Covid-19 data was given to analyze the spread of COVID-19 across many countries. The data contains  iso_code, location, date, total cases, total deaths, stringency index, population, gdp_per_capita, human_development_index, etc.
 
